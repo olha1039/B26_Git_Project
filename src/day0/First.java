@@ -1,9 +1,8 @@
 package day0;
 
 public class First {
-
-    //TODO: Word on this tomorrow
-    // add some cool code
-
-    //trying again
+    public static void main(String[] args) {
+        System.out.println("java");
+        System.out.println("Working...");
+    }
 }
